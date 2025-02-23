@@ -6,4 +6,4 @@
 
 [cmake-3.31.5-darwin](https://mirrors.tencent.com/AndroidSDK/cmake-3.31.5-darwin.zip)
 
-![img.png](../assets/img.png)
+![alt text](../assets/1740320831107.png)

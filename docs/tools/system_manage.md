@@ -1,6 +1,6 @@
 # 系统管理
 
-## Mac平台计算机名
+## Mac 平台计算机名
 
 ### HostName
 
@@ -38,4 +38,3 @@ pip freeze | xargs pip uninstall -y
 ```shell
 brew list | xargs brew uninstall
 ```
-
