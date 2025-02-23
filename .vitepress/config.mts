@@ -2,6 +2,7 @@ import {defineConfig} from 'vitepress'
 import {head, nav, sidebar,social_links} from "./configs";
 
 export default defineConfig({
+  base: '/noodle-restaurant/',
   title: "炒拉条の程序猿",
   lang: 'zh-CN',
   head: head,
