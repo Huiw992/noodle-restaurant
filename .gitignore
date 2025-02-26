@@ -3,4 +3,3 @@
 .idea
 .vitepress/cache
 node_modules
-pnpm-lock.yaml
